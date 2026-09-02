@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Undercover eye mark</title>
+  <desc id="desc">A bold eye symbol with a hidden fingerprint pupil.</desc>
+  <rect width="512" height="512" rx="68" fill="#ff604d"/>
+  <path d="M72 256c49-83 111-124 184-124s135 41 184 124c-49 83-111 124-184 124S121 339 72 256Z" fill="#fffdf7" stroke="#1b1b18" stroke-width="22" stroke-linejoin="round"/>
+  <circle cx="256" cy="256" r="91" fill="#1b1b18"/>
+  <circle cx="256" cy="256" r="42" fill="#4cc8d1"/>
+  <path d="M213 270c0-35 18-58 43-58s43 23 43 58c0 28-11 52-29 68M230 314c-10-13-15-28-15-45 0-33 17-54 41-54s41 21 41 54c0 20-6 39-18 55M243 292c-5-8-8-17-8-28 0-18 8-30 21-30s21 12 21 30c0 13-4 26-11 37" fill="none" stroke="#fffdf7" stroke-width="8" stroke-linecap="round"/>
+  <path d="M77 106h88M347 406h88" fill="none" stroke="#1b1b18" stroke-width="20" stroke-linecap="square"/>
+</svg>
